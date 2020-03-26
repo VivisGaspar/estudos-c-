@@ -1,0 +1,13 @@
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.csprojAssemblyReference.cache
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.csproj.CoreCompileInputs.cache
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.AssemblyInfoInputs.cache
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.AssemblyInfo.cs
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.exe
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.deps.json
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.runtimeconfig.json
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.runtimeconfig.dev.json
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.dll
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.pdb
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.dll
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.pdb
+C:\Users\i375075\Documents\projetos\estudos\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.genruntimeconfig.cache
